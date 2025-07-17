@@ -201,6 +201,27 @@ workspace/portal
    * Códigos prontos: https://github.com/WebdevShefali/Web-Dev-Resources?tab=readme-ov-file#web-development-resources
 ---
 
+## 📚 Recursos para Aprender Tecnologias Web
+
+Aqui estão alguns sites interativos e didáticos para aprender as principais tecnologias de desenvolvimento web:
+
+- **JavaScript** → [warriorjs.com](https://warriorjs.com)  
+  Aprenda JavaScript jogando como um guerreiro que programa para vencer desafios.
+
+- **CSS** → [flukeout.github.io](https://flukeout.github.io)  
+  Pratique seletores CSS com um jogo divertido e visual.
+
+- **Git** → [ohmygit.org](https://ohmygit.org)  
+  Um jogo educativo para entender como o Git funciona na prática.
+
+- **HTML** → [w3schools.com/html](https://www.w3schools.com/html/)  
+  Comece com a base da web usando tutoriais diretos e exemplos interativos.
+
+- **React** → [react.dev](https://react.dev/)  
+  Documentação oficial com guias passo a passo e playgrounds para aprender React.
+
+---
+
 ## 🎨 Padrão de Cores
 
 Este projeto utiliza as seguintes cores principais, conforme definido no arquivo [`cores.png`](https://github.com/Guilherme-ber/Portal-de-Noticias/blob/main/cores.png):
